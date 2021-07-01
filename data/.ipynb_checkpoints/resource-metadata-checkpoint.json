@@ -1,0 +1,11 @@
+{
+    "ResourceArn": "arn:aws:iam:us-west-2:976939723775:role/ForecastNotebookRole-Basic",
+    "ResourceName": "NotebookInstanceName",
+    "datasetGroupArn": "arn:aws:forecast:us-west-2:976939723775:dataset-group/forecast_immersion_day_dsg",
+    "DatasetArn": "arn:aws:forecast:us-west-2:976939723775:dataset/forecast_immersion_day_ds",
+    "DatasetImportJobArn": "arn:aws:forecast:us-west-2:976939723775:dataset-import-job/forecast_immersion_day_ds/DSIMPORT_JOB_TARGET",
+    "arimaPredictorArn": "arn:aws:forecast:us-west-2:976939723775:predictor/forecast_immersion_day_arima_algo_1",
+    "prophetPredictorArn": "arn:aws:forecast:us-west-2:976939723775:predictor/forecast_immersion_day_prophet_algo_1",
+    "deeparpPredictorArn": "arn:aws:forecast:us-west-2:976939723775:predictor/forecast_immersion_day_deeparp_algo_1",
+    "cnnqrPredictorArn": "arn:aws:forecast:us-west-2:976939723775:predictor/forecast_immersion_day_cnnqr_algo_1"
+}
